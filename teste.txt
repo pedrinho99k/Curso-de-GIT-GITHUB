@@ -1,0 +1,8 @@
+Entendendo os comandos do COMMIT
+
+
+// Para restaurar uma versão anterior
+git commit "HASH da versão"
+
+
+// Para deletar um commit
