@@ -3,8 +3,8 @@
 
 Curso de GIT e GITHUB realizado no :
 
-[Workover](https://www.workover.com.br/){:target="_blank"}
+[Workover](https://www.workover.com.br/){:target='_blank'}
 
 Link para criar as badges do MarkDown :
 
-[Shields.io](https://shields.io/){:target="_blank"}
+[Shields.io](https://shields.io/){:target='_blank'}
