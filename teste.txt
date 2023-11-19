@@ -6,3 +6,13 @@ git commit "HASH da versão"
 
 
 // Para deletar um commit
+git reset 
+
+// Para enviar um commit
+git commit -m "Comentario sobre o commit"
+
+// Para enviar uma atualização dos arquivos para o GITHUB
+  git push
+
+// Para atualizar o repositorio com o GITHUB
+git pull
