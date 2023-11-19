@@ -4,3 +4,7 @@
 Curso de GIT e GITHUB realizado no :
 
 [Workover](https://www.workover.com.br/)
+
+Link para criar as badges do MarkDown :
+
+[Shields.io](https://shields.io/)
