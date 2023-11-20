@@ -12,14 +12,14 @@ Link para criar as badges do MarkDown :
 
 <h3>Comandos do GITHUB</h3>
 <p>
-  // Para verificar o origin atual
-  git remote -v
+  // Para verificar o origin atual -
+  <strong>git remote -v</strong>
 </p>
 <p>
-  // Para adicionar um origin
-  git remote add origin link-url
+  // Para adicionar um origin - 
+  <strong>git remote add origin link-url</strong>
 </p>
 <p>
-  // Para atualizar o origin
-  git remote set-url origin nova-url
+  // Para atualizar o origin - 
+  <strong>git remote set-url origin nova-url</strong>
 </p>
